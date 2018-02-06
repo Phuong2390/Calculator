@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+package.json
+package-lock.json
+bin/
+public/
+routes/
+views/
